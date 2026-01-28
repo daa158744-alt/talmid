@@ -1,0 +1,17 @@
+
+{
+  "name": "YADA - نظام إدارة المتربصين",
+  "short_name": "YADA",
+  "description": "نظام متطور لإدارة شؤون المتربصين والوثائق الإدارية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0c4a6e",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2942/2942501.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
